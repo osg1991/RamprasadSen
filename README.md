@@ -14,5 +14,6 @@
 12. [shokoli tomāri icchā](https://github.com/osg1991/RamprasadSen/blob/main/shokoli%20tomāri%20icchā.md)
 13. [ChintamoyīTaraTumi](https://github.com/osg1991/RamprasadSen/blob/main/ChintamoyīTaraTumi.md)
 14. [MayerPayerJobaHoye](https://github.com/osg1991/RamprasadSen/blob/main/MayerPayerJobaHoye.md)
+15. [ChaiNaMagoRajaHate](https://github.com/osg1991/RamprasadSen/blob/main/ChaiNaMagoRajaHate.md)
 
 
