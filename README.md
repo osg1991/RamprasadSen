@@ -1,29 +1,31 @@
-## Tara 
-
-1. [Aamay De Maa Pagol Kore](https://github.com/osg1991/RamprasadSen/blob/main/Aamay%20De%20Maa%20Pagol%20Kore.md)
-2. [Amar Maa Tvam hi tara](https://github.com/osg1991/RamprasadSen/blob/main/Amar%20Maa%20Tvam%20hi%20tara.md)
-3. [boshilen mA hemabarNI](https://github.com/osg1991/RamprasadSen/blob/main/boshilen%20mA%20hemabarNI.md)
-4. [De Ma Amay Tabildaari](https://github.com/osg1991/RamprasadSen/blob/main/De%20Ma%20Amay%20Tabildaari.md)
-5. [emon din ki hobe mA tArA](https://github.com/osg1991/RamprasadSen/blob/main/emon%20din%20ki%20hobe%20mA%20tArA.md)
-6. [Jenechhi Jenechhi Tara](https://github.com/osg1991/RamprasadSen/blob/main/Jenechhi%20Jenechhi%20Tara.md)
-7. [Jogat-janonI tumi go mA tArA](https://github.com/osg1991/RamprasadSen/blob/main/Jogat-janonI%20tumi%20go%20mA%20tArA.md)
-8. [jodi Dākār moto pāritām Dākte](https://github.com/osg1991/RamprasadSen/blob/main/jodi%20Dākār%20moto%20pāritām%20Dākte.md)
-9. [mā go bhubana-bhara rūp](https://github.com/osg1991/RamprasadSen/blob/main/mā%20go%20bhubana-bhara%20rūp.md)
-10. [mon re kṛṣikāj jāno na](https://github.com/osg1991/RamprasadSen/blob/main/mon%20re%20kṛṣikāj%20jāno%20na.md)
-11. [oder moto bolbo na mā](https://github.com/osg1991/RamprasadSen/blob/main/oder%20moto%20bolbo%20na%20mā.md)
-12. [shokoli tomāri icchā](https://github.com/osg1991/RamprasadSen/blob/main/shokoli%20tomāri%20icchā.md)
-13. [Chintamoyī Tara Tumi](https://github.com/osg1991/RamprasadSen/blob/main/ChintamoyīTaraTumi.md)
-14. [Mayer Payer Joba Hoye](https://github.com/osg1991/RamprasadSen/blob/main/MayerPayerJobaHoye.md)
-15. [Chai Na Mago Raja Hate](https://github.com/osg1991/RamprasadSen/blob/main/ChaiNaMagoRajaHate.md)
-16. [Mon Tomar Ei Bhram Gelo Na](https://github.com/osg1991/RamprasadSen/blob/main/MonTomarEiBhramGeloNa.md)
-17. [Apaar Sansar Nahi Parapar](https://github.com/osg1991/RamprasadSen/blob/main/ApaarSansarNahiParapar.md)
-18. [Ke Hara Hridi Majhe Bihare](https://github.com/osg1991/RamprasadSen/blob/main/KeHaraHridiMajheBihare.md)
-19. [Oi ShyamA Bama Ke](https://github.com/osg1991/RamprasadSen/blob/main/OiShyamABamaKe.md)
-20. [Bason Paro Ma](https://github.com/osg1991/RamprasadSen/blob/main/BasonParoMa.md)
-21. [Asar Asa Bhabe Asa](https://github.com/osg1991/RamprasadSen/blob/main/AsarAsaBhabeAsa.md)
-22. [Ma BaleAr DAkbo nA mA](https://github.com/osg1991/RamprasadSen/blob/main/MaBaleArDAkbonAmA.md)
-23. [mon keno mAyer charaNachhARA](https://github.com/osg1991/RamprasadSen/blob/main/MonKenoMayerCharaNachhara.md)
-24. [mAgo shomoy to thAkbe](https://github.com/osg1991/RamprasadSen/blob/main/MagoShomoyToThakbe.md)
-25. [ore surApAn korine Ami](https://github.com/osg1991/RamprasadSen/blob/main/ore-surApAn-korine-Ami.md)
-26. [tilek dāṛā ore shomon](https://github.com/osg1991/RamprasadSen/blob/main/TilekDaṛaOreShomon.md)
-27. [mukto kor mā mukto keśī](https://github.com/osg1991/RamprasadSen/blob/main/mukto-kor-mā-mukto-keśī.md)
+```markdown
+| Serial Number | Song Link | Lyrics PDF | Mp3 |
+|---------------|-----------|------------|-----|
+| 1  | [Aamay De Maa Pagol Kore](https://github.com/osg1991/RamprasadSen/blob/main/Aamay%20De%20Maa%20Pagol%20Kore.md) | - | - |
+| 2  | [Amar Maa Tvam hi tara](https://github.com/osg1991/RamprasadSen/blob/main/Amar%20Maa%20Tvam%20hi%20tara.md) | - | - |
+| 3  | [boshilen mA hemabarNI](https://github.com/osg1991/RamprasadSen/blob/main/boshilen%20mA%20hemabarNI.md) | - | - |
+| 4  | [De Ma Amay Tabildaari](https://github.com/osg1991/RamprasadSen/blob/main/De%20Ma%20Amay%20Tabildaari.md) | - | - |
+| 5  | [emon din ki hobe mA tArA](https://github.com/osg1991/RamprasadSen/blob/main/emon%20din%20ki%20hobe%20mA%20tArA.md) | - | - |
+| 6  | [Jenechhi Jenechhi Tara](https://github.com/osg1991/RamprasadSen/blob/main/Jenechhi%20Jenechhi%20Tara.md) | - | - |
+| 7  | [Jogat-janonI tumi go mA tArA](https://github.com/osg1991/RamprasadSen/blob/main/Jogat-janonI%20tumi%20go%20mA%20tArA.md) | - | - |
+| 8  | [jodi Dākār moto pāritām Dākte](https://github.com/osg1991/RamprasadSen/blob/main/jodi%20Dākār%20moto%20pāritām%20Dākte.md) | - | - |
+| 9  | [mā go bhubana-bhara rūp](https://github.com/osg1991/RamprasadSen/blob/main/mā%20go%20bhubana-bhara%20rūp.md) | - | - |
+| 10 | [mon re kṛṣikāj jāno na](https://github.com/osg1991/RamprasadSen/blob/main/mon%20re%20kṛṣikāj%20jāno%20na.md) | - | - |
+| 11 | [oder moto bolbo na mā](https://github.com/osg1991/RamprasadSen/blob/main/oder%20moto%20bolbo%20na%20mā.md) | - | - |
+| 12 | [shokoli tomāri icchā](https://github.com/osg1991/RamprasadSen/blob/main/shokoli%20tomāri%20icchā.md) | - | - |
+| 13 | [Chintamoyī Tara Tumi](https://github.com/osg1991/RamprasadSen/blob/main/ChintamoyīTaraTumi.md) | - | - |
+| 14 | [Mayer Payer Joba Hoye](https://github.com/osg1991/RamprasadSen/blob/main/MayerPayerJobaHoye.md) | - | - |
+| 15 | [Chai Na Mago Raja Hate](https://github.com/osg1991/RamprasadSen/blob/main/ChaiNaMagoRajaHate.md) | - | - |
+| 16 | [Mon Tomar Ei Bhram Gelo Na](https://github.com/osg1991/RamprasadSen/blob/main/MonTomarEiBhramGeloNa.md) | - | - |
+| 17 | [Apaar Sansar Nahi Parapar](https://github.com/osg1991/RamprasadSen/blob/main/ApaarSansarNahiParapar.md) | - | - |
+| 18 | [Ke Hara Hridi Majhe Bihare](https://github.com/osg1991/RamprasadSen/blob/main/KeHaraHridiMajheBihare.md) | - | - |
+| 19 | [Oi ShyamA Bama Ke](https://github.com/osg1991/RamprasadSen/blob/main/OiShyamABamaKe.md) | - | - |
+| 20 | [Bason Paro Ma](https://github.com/osg1991/RamprasadSen/blob/main/BasonParoMa.md) | - | - |
+| 21 | [Asar Asa Bhabe Asa](https://github.com/osg1991/RamprasadSen/blob/main/AsarAsaBhabeAsa.md) | - | - |
+| 22 | [Ma BaleAr DAkbo nA mA](https://github.com/osg1991/RamprasadSen/blob/main/MaBaleArDAkbonAmA.md) | - | - |
+| 23 | [mon keno mAyer charaNachhARA](https://github.com/osg1991/RamprasadSen/blob/main/MonKenoMayerCharaNachhara.md) | - | - |
+| 24 | [mAgo shomoy to thAkbe](https://github.com/osg1991/RamprasadSen/blob/main/MagoShomoyToThakbe.md) | - | - |
+| 25 | [ore surApAn korine Ami](https://github.com/osg1991/RamprasadSen/blob/main/ore-surApAn-korine-Ami.md) | - | - |
+| 26 | [tilek dāṛā ore shomon](https://github.com/osg1991/RamprasadSen/blob/main/TilekDaṛaOreShomon.md) | - | - |
+| 27 | [mukto kor mā mukto keśī](https://github.com/osg1991/RamprasadSen/blob/main/mukto-kor-mā-mukto-keśī.md) | - | - |
+```
