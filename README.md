@@ -1,30 +1,30 @@
 | Serial Number | Song Link | Lyrics PDF | Mp3 |
 |---------------|-----------|------------|-----|
-| 1  | [Aamay De Maa Pagol Kore](https://github.com/osg1991/RamprasadSen/blob/main/Aamay%20De%20Maa%20Pagol%20Kore.md) | - | - |
-| 2  | [Amar Maa Tvam hi tara](https://github.com/osg1991/RamprasadSen/blob/main/Amar%20Maa%20Tvam%20hi%20tara.md) | - | - |
-| 3  | [boshilen mA hemabarNI](https://github.com/osg1991/RamprasadSen/blob/main/boshilen%20mA%20hemabarNI.md) | - | - |
-| 4  | [De Ma Amay Tabildaari](https://github.com/osg1991/RamprasadSen/blob/main/De%20Ma%20Amay%20Tabildaari.md) | - | - |
-| 5  | [emon din ki hobe mA tArA](https://github.com/osg1991/RamprasadSen/blob/main/emon%20din%20ki%20hobe%20mA%20tArA.md) | - | - |
-| 6  | [Jenechhi Jenechhi Tara](https://github.com/osg1991/RamprasadSen/blob/main/Jenechhi%20Jenechhi%20Tara.md) | - | - |
-| 7  | [Jogat-janonI tumi go mA tArA](https://github.com/osg1991/RamprasadSen/blob/main/Jogat-janonI%20tumi%20go%20mA%20tArA.md) | - | - |
-| 8  | [jodi Dākār moto pāritām Dākte](https://github.com/osg1991/RamprasadSen/blob/main/jodi%20Dākār%20moto%20pāritām%20Dākte.md) | - | - |
-| 9  | [mā go bhubana-bhara rūp](https://github.com/osg1991/RamprasadSen/blob/main/mā%20go%20bhubana-bhara%20rūp.md) | - | - |
-| 10 | [mon re kṛṣikāj jāno na](https://github.com/osg1991/RamprasadSen/blob/main/mon%20re%20kṛṣikāj%20jāno%20na.md) | - | - |
-| 11 | [oder moto bolbo na mā](https://github.com/osg1991/RamprasadSen/blob/main/oder%20moto%20bolbo%20na%20mā.md) | - | - |
-| 12 | [shokoli tomāri icchā](https://github.com/osg1991/RamprasadSen/blob/main/shokoli%20tomāri%20icchā.md) | - | - |
-| 13 | [Chintamoyī Tara Tumi](https://github.com/osg1991/RamprasadSen/blob/main/ChintamoyīTaraTumi.md) | - | - |
-| 14 | [Mayer Payer Joba Hoye](https://github.com/osg1991/RamprasadSen/blob/main/MayerPayerJobaHoye.md) | - | - |
-| 15 | [Chai Na Mago Raja Hate](https://github.com/osg1991/RamprasadSen/blob/main/ChaiNaMagoRajaHate.md) | - | - |
-| 16 | [Mon Tomar Ei Bhram Gelo Na](https://github.com/osg1991/RamprasadSen/blob/main/MonTomarEiBhramGeloNa.md) | - | - |
-| 17 | [Apaar Sansar Nahi Parapar](https://github.com/osg1991/RamprasadSen/blob/main/ApaarSansarNahiParapar.md) | - | - |
-| 18 | [Ke Hara Hridi Majhe Bihare](https://github.com/osg1991/RamprasadSen/blob/main/KeHaraHridiMajheBihare.md) | - | - |
-| 19 | [Oi ShyamA Bama Ke](https://github.com/osg1991/RamprasadSen/blob/main/OiShyamABamaKe.md) | - | - |
-| 20 | [Bason Paro Ma](https://github.com/osg1991/RamprasadSen/blob/main/BasonParoMa.md) | - | - |
-| 21 | [Asar Asa Bhabe Asa](https://github.com/osg1991/RamprasadSen/blob/main/AsarAsaBhabeAsa.md) | - | - |
-| 22 | [Ma BaleAr DAkbo nA mA](https://github.com/osg1991/RamprasadSen/blob/main/MaBaleArDAkbonAmA.md) | - | - |
-| 23 | [mon keno mAyer charaNachhARA](https://github.com/osg1991/RamprasadSen/blob/main/MonKenoMayerCharaNachhara.md) | - | - |
-| 24 | [mAgo shomoy to thAkbe](https://github.com/osg1991/RamprasadSen/blob/main/MagoShomoyToThakbe.md) | - | - |
-| 25 | [ore surApAn korine Ami](https://github.com/osg1991/RamprasadSen/blob/main/ore-surApAn-korine-Ami.md) | - | - |
-| 26 | [tilek dāṛā ore shomon](https://github.com/osg1991/RamprasadSen/blob/main/TilekDaṛaOreShomon.md) | - | - |
-| 27 | [mukto kor mā mukto keśī](https://github.com/osg1991/RamprasadSen/blob/main/mukto-kor-mā-mukto-keśī.md) | - | - |
+| 1  | [Aamay De Maa Pagol Kore](https://github.com/osg1991/RamprasadSen/blob/main/Aamay%20De%20Maa%20Pagol%20Kore.md) | - | [MP3](https://github.com/osg1991/RamprasadSen/blob/main/assets/mp3/01-AmayDeMaPagolKore-Pannalal-Ramprasad.mp3) |
+| 2  | [Amar Maa Tvam hi tara](https://github.com/osg1991/RamprasadSen/blob/main/Amar%20Maa%20Tvam%20hi%20tara.md) | - | [MP3](https://github.com/osg1991/RamprasadSen/blob/main/assets/mp3/02-Amar%20Maa%20Twang%20Hi%20Tara-Pannalal-Ramprasad.mp3) |
+| 3  | [boshilen mA hemabarNI](https://github.com/osg1991/RamprasadSen/blob/main/boshilen%20mA%20hemabarNI.md) | - | [MP3](https://github.com/osg1991/RamprasadSen/blob/main/assets/mp3/03-BosilenMaHembarani-Pannalal-Ramprasad.mp3) |
+| 4  | [De Ma Amay Tabildaari](https://github.com/osg1991/RamprasadSen/blob/main/De%20Ma%20Amay%20Tabildaari.md) | - | [MP3](https://github.com/osg1991/RamprasadSen/blob/main/assets/mp3/04-De-Ma-Amay-Tabildaari.mp3) |
+| 5  | [emon din ki hobe mA tArA](https://github.com/osg1991/RamprasadSen/blob/main/emon%20din%20ki%20hobe%20mA%20tArA.md) | - | [MP3](https://github.com/osg1991/RamprasadSen/blob/main/assets/mp3/05-EmonDinKiHobeMaTara.mp3) |
+| 6  | [Jenechhi Jenechhi Tara](https://github.com/osg1991/RamprasadSen/blob/main/Jenechhi%20Jenechhi%20Tara.md) | - | [MP3](https://github.com/osg1991/RamprasadSen/blob/main/assets/mp3/06-JenechhiJenechhiTara-Pannalal-Ramprasad.mp3) |
+| 7  | [Jogat-janonI tumi go mA tArA](https://github.com/osg1991/RamprasadSen/blob/main/Jogat-janonI%20tumi%20go%20mA%20tArA.md) | - | [MP3](https://github.com/osg1991/RamprasadSen/blob/main/assets/mp3/07-JagatJananiGoMaaTara-Pannalal-RamprasadSen.mp3) |
+| 8  | [jodi Dākār moto pāritām Dākte](https://github.com/osg1991/RamprasadSen/blob/main/jodi%20Dākār%20moto%20pāritām%20Dākte.md) | - | [MP3](https://github.com/osg1991/RamprasadSen/blob/main/assets/mp3/08-Jodi-Dakar-Mato-Paritam-Dakte.mp3) |
+| 9  | [mā go bhubana-bhara rūp](https://github.com/osg1991/RamprasadSen/blob/main/mā%20go%20bhubana-bhara%20rūp.md) | - | [MP3](https://github.com/osg1991/RamprasadSen/blob/main/assets/mp3/09-Ma-Go-Bhubanbhora-Rup.mp3) |
+| 10 | [mon re kṛṣikāj jāno na](https://github.com/osg1991/RamprasadSen/blob/main/mon%20re%20kṛṣikāj%20jāno%20na.md) | - | [MP3](https://github.com/osg1991/RamprasadSen/blob/main/assets/mp3/10-ManReKṛṣiKājJānaNā-Pannalal-Ramprasad.mp3) |
+| 11 | [oder moto bolbo na mā](https://github.com/osg1991/RamprasadSen/blob/main/oder%20moto%20bolbo%20na%20mā.md) | - | [MP3](https://github.com/osg1991/RamprasadSen/blob/main/assets/mp3/11-Oder-Mato-Bolbo-Na-Ma.mp3) |
+| 12 | [shokoli tomāri icchā](https://github.com/osg1991/RamprasadSen/blob/main/shokoli%20tomāri%20icchā.md) | - | [MP3](https://github.com/osg1991/RamprasadSen/blob/main/assets/mp3/12-Sakali-tomari-ichha.mp3) |
+| 13 | [Chintamoyī Tara Tumi](https://github.com/osg1991/RamprasadSen/blob/main/ChintamoyīTaraTumi.md) | - | [MP3](https://github.com/osg1991/RamprasadSen/blob/main/assets/mp3/13-ChintamoyeeTaraTumi-Pannalal-Ramprasad.mp3) |
+| 14 | [Mayer Payer Joba Hoye](https://github.com/osg1991/RamprasadSen/blob/main/MayerPayerJobaHoye.md) | - | [MP3](https://github.com/osg1991/RamprasadSen/blob/main/assets/mp3/14-MayerPayerJabaHoye-Pannalal-Ramprasad.mp3) |
+| 15 | [Chai Na Mago Raja Hate](https://github.com/osg1991/RamprasadSen/blob/main/ChaiNaMagoRajaHate.md) | - | [MP3](https://github.com/osg1991/RamprasadSen/blob/main/assets/mp3/15-ChaiNaaMagoRajaHote-Pannalal-Ramprasad.mp3) |
+| 16 | [Mon Tomar Ei Bhram Gelo Na](https://github.com/osg1991/RamprasadSen/blob/main/MonTomarEiBhramGeloNa.md) | - | [MP3](https://github.com/osg1991/RamprasadSen/blob/main/assets/mp3/16-MonTomarEiBhramGeloNa-Pannalal-Ramprasad.mp3) |
+| 17 | [Apaar Sansar Nahi Parapar](https://github.com/osg1991/RamprasadSen/blob/main/ApaarSansarNahiParapar.md) | - | [MP3](https://github.com/osg1991/RamprasadSen/blob/main/assets/mp3/17-ApaarSansarNahiParapar-Pannalal-Ramprasad.mp3) |
+| 18 | [Ke Hara Hridi Majhe Bihare](https://github.com/osg1991/RamprasadSen/blob/main/KeHaraHridiMajheBihare.md) | - | [MP3](https://github.com/osg1991/RamprasadSen/blob/main/assets/mp3/18-KeHaraHridiMajheBihare-Pannalal-Ramprasad.mp3) |
+| 19 | [Oi ShyamA Bama Ke](https://github.com/osg1991/RamprasadSen/blob/main/OiShyamABamaKe.md) | - | [MP3](https://github.com/osg1991/RamprasadSen/blob/main/assets/mp3/19-OiShyamaBamaKe-Pannalal-Ramprasad.mp3) |
+| 20 | [Bason Paro Ma](https://github.com/osg1991/RamprasadSen/blob/main/BasonParoMa.md) | - | [MP3](https://github.com/osg1991/RamprasadSen/blob/main/assets/mp3/20-BasanParoMa-Pannalal-Ramprasad.mp3) |
+| 21 | [Asar Asa Bhabe Asa](https://github.com/osg1991/RamprasadSen/blob/main/AsarAsaBhabeAsa.md) | - | [MP3](https://github.com/osg1991/RamprasadSen/blob/main/assets/mp3/21-AasaarAasaaBhabeAasaa-Pannalal-Ramprasadi.mp3) |
+| 22 | [Ma BaleAr DAkbo nA mA](https://github.com/osg1991/RamprasadSen/blob/main/MaBaleArDAkbonAmA.md) | - | [MP3](https://github.com/osg1991/RamprasadSen/blob/main/assets/mp3/22-MaaMaaBoleDakboNaAar.mp3) |
+| 23 | [mon keno mAyer charaNachhARA](https://github.com/osg1991/RamprasadSen/blob/main/MonKenoMayerCharaNachhara.md) | - | [MP3](https://github.com/osg1991/RamprasadSen/blob/main/assets/mp3/23-MonKenoMayerCharonChara-Pannalal-Ramprasad.mp3) |
+| 24 | [mAgo shomoy to thAkbe](https://github.com/osg1991/RamprasadSen/blob/main/MagoShomoyToThakbe.md) | - | [MP3](https://github.com/osg1991/RamprasadSen/blob/main/assets/mp3/24-MaGoSamayToThakbeNa-Pannalal-Ramprasad.mp3) |
+| 25 | [ore surApAn korine Ami](https://github.com/osg1991/RamprasadSen/blob/main/ore-surApAn-korine-Ami.md) | - | [MP3](https://github.com/osg1991/RamprasadSen/blob/main/assets/mp3/25-SuraPaanKorineAmi-Dhananjay-Ramprasad.mp3) |
+| 26 | [tilek dāṛā ore shomon](https://github.com/osg1991/RamprasadSen/blob/main/TilekDaṛaOreShomon.md) | - | [MP3](https://github.com/osg1991/RamprasadSen/blob/main/assets/mp3/26-TilekDanraOreShaman-Dhananjay-Ramprasad.mp3) |
+| 27 | [mukto kor mā mukto keśī](https://github.com/osg1991/RamprasadSen/blob/main/mukto-kor-mā-mukto-keśī.md) | - | [MP3](https://github.com/osg1991/RamprasadSen/blob/main/assets/mp3/27-MuktKaroMaMuktekesi-Dhananjay-Ramprasad.mp3) |
 
