@@ -1,0 +1,18 @@
+defaults:
+    workspace: .
+    cover: true
+    toc: true
+    encoding: utf-8
+    directory: output
+    basename: build
+builds:
+  - workspace: book
+    basename: book
+  - workspace: booklet
+    basename: booklet
+    cover: false
+    toc: false
+    env:
+        build_msg: Build Message
+
+        
