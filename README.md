@@ -1,4 +1,4 @@
-| Serial Number | Song Link | Lyrics PDF | Mp3 |
+| Song Number | Song Lyrics Link | Lyrics PDF | Mp3 |
 |---------------|-----------|------------|-----|
 | 1  | [Aamay De Maa Pagol Kore](https://github.com/osg1991/RamprasadSen/blob/main/01-Aamay-De-Maa-Pagol-Kore.md) | - | [MP3](https://github.com/osg1991/RamprasadSen/blob/main/assets/mp3/01-AmayDeMaPagolKore-Pannalal-Ramprasad.mp3) |
 | 2  | [Amar Maa Tvam hi tara](https://github.com/osg1991/RamprasadSen/blob/main/02-Amar-Maa-Tvam-hi-tara.md) | - | [MP3](https://github.com/osg1991/RamprasadSen/blob/main/assets/mp3/02-Amar%20Maa%20Twang%20Hi%20Tara-Pannalal-Ramprasad.mp3) |
