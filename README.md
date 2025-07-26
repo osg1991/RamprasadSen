@@ -1,9 +1,9 @@
 | Serial Number | Song Link | Lyrics PDF | Mp3 |
 |---------------|-----------|------------|-----|
-| 1  | [Aamay De Maa Pagol Kore](https://github.com/osg1991/RamprasadSen/blob/main/01-Aamay-De-Maa-Pagol-Kore) | - | [MP3](https://github.com/osg1991/RamprasadSen/blob/main/assets/mp3/01-AmayDeMaPagolKore-Pannalal-Ramprasad.mp3) |
-| 2  | [Amar Maa Tvam hi tara](https://github.com/osg1991/RamprasadSen/blob/main/02-Amar-Maa-Tvam-hi-tara.md.md) | - | [MP3](https://github.com/osg1991/RamprasadSen/blob/main/assets/mp3/02-Amar%20Maa%20Twang%20Hi%20Tara-Pannalal-Ramprasad.mp3) |
+| 1  | [Aamay De Maa Pagol Kore](https://github.com/osg1991/RamprasadSen/blob/main/01-Aamay-De-Maa-Pagol-Kore.md) | - | [MP3](https://github.com/osg1991/RamprasadSen/blob/main/assets/mp3/01-AmayDeMaPagolKore-Pannalal-Ramprasad.mp3) |
+| 2  | [Amar Maa Tvam hi tara](https://github.com/osg1991/RamprasadSen/blob/main/02-Amar-Maa-Tvam-hi-tara.md) | - | [MP3](https://github.com/osg1991/RamprasadSen/blob/main/assets/mp3/02-Amar%20Maa%20Twang%20Hi%20Tara-Pannalal-Ramprasad.mp3) |
 | 3  | [boshilen mA hemabarNI](https://github.com/osg1991/RamprasadSen/blob/main/03-boshilen-mA-hemabarNI.md) | - | [MP3](https://github.com/osg1991/RamprasadSen/blob/main/assets/mp3/03-BosilenMaHembarani-Pannalal-Ramprasad.mp3) |
-| 4  | [De Ma Amay Tabildaari](https://github.com/osg1991/RamprasadSen/blob/main/De%20Ma%20Amay%20Tabildaari.md) | - | [MP3](https://github.com/osg1991/RamprasadSen/blob/main/assets/mp3/04-De-Ma-Amay-Tabildaari.mp3) |
+| 4  | [De Ma Amay Tabildaari](https://github.com/osg1991/RamprasadSen/blob/main/04-De-Ma-Amay-Tabildaari.md) | - | [MP3](https://github.com/osg1991/RamprasadSen/blob/main/assets/mp3/04-De-Ma-Amay-Tabildaari.mp3) |
 | 5  | [emon din ki hobe mA tArA](https://github.com/osg1991/RamprasadSen/blob/main/05-emon-din-ki-hobe-mA-tArA.md) | - | [MP3](https://github.com/osg1991/RamprasadSen/blob/main/assets/mp3/05-EmonDinKiHobeMaTara.mp3) |
 | 6  | [Jenechhi Jenechhi Tara](https://github.com/osg1991/RamprasadSen/blob/main/06-Jenechhi-Jenechhi-Tara.md) | - | [MP3](https://github.com/osg1991/RamprasadSen/blob/main/assets/mp3/06-JenechhiJenechhiTara-Pannalal-Ramprasad.mp3) |
 | 7  | [Jogat-janonI tumi go mA tArA](https://github.com/osg1991/RamprasadSen/blob/main/07-Jogat-janonI-tumi-go-mA-tArA.md) | - | [MP3](https://github.com/osg1991/RamprasadSen/blob/main/assets/mp3/07-JagatJananiGoMaaTara-Pannalal-RamprasadSen.mp3) |
