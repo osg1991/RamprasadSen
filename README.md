@@ -27,4 +27,8 @@
 | 25 | [ore surApAn korine Ami](https://github.com/osg1991/RamprasadSen/blob/main/ore-surApAn-korine-Ami.md) | - | [MP3](https://github.com/osg1991/RamprasadSen/blob/main/assets/mp3/25-SuraPaanKorineAmi-Dhananjay-Ramprasad.mp3) |
 | 26 | [tilek dāṛā ore shomon](https://github.com/osg1991/RamprasadSen/blob/main/TilekDaṛaOreShomon.md) | - | [MP3](https://github.com/osg1991/RamprasadSen/blob/main/assets/mp3/26-TilekDanraOreShaman-Dhananjay-Ramprasad.mp3) |
 | 27 | [mukto kor mā mukto keśī](https://github.com/osg1991/RamprasadSen/blob/main/mukto-kor-mā-mukto-keśī.md) | - | [MP3](https://github.com/osg1991/RamprasadSen/blob/main/assets/mp3/27-MuktKaroMaMuktekesi-Dhananjay-Ramprasad.mp3) |
+| 28 | [āẏ mon beṛāte jābi](https://github.com/osg1991/RamprasadSen/blob/main/āẏ-mon-beṛāte-jābi.md) | - | [MP3](https://github.com/osg1991/RamprasadSen/blob/main/assets/mp3/28-AaiMonBerate-Jabi-Dhananjay-Ramprasad.mp3) |
+| 29 | [āmi joṛi bhul kori mā](https://github.com/osg1991/RamprasadSen/blob/main/āmi-joṛi-bhul-kori-mā.md) | - | [MP3](https://github.com/osg1991/RamprasadSen/blob/main/assets/mp3/29-Ami-Jodi-Bhul-Kori-Ma-Pannalal-Ramprasad.mp3) |
+| 30 | [amar hṛidakamala](https://github.com/osg1991/RamprasadSen/blob/main/amar-hṛidakamala.md) | - | [MP3](https://github.com/osg1991/RamprasadSen/blob/main/assets/mp3/30-Amar-Hridkamal-Manche-Nirmal-Ramprasad.mp3) |
+| 31 | [kālī kālī bala rasanā](https://github.com/osg1991/RamprasadSen/blob/main/kālī-kālī-bala-rasanā.md) | - | [MP3](https://github.com/osg1991/RamprasadSen/blob/main/assets/mp3/31-KaliKaliBalRasana-Ajoy-Ramprasad.mp3) |
 
