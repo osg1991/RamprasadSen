@@ -77,13 +77,13 @@ kāre dāo mā brohmopod
 
 kāre koro odhogāmī
 
-எவருக்குத் தெய்வீக பதவியை நீ அளிக்கிறாய்
+சிலருக்கு, அம்மா, பரம்பொருளின் உயர்ந்த பதவியை அருள்கிறாய்,
 
-மற்றவர்களை நீ கீழ்த்தரமாக ஆக்குகிறாய்
+மற்றவர்களை நீ அடர்ந்த வீழ்ச்சிக்குத் தள்ளுகிறாய்.
 
-To some, You grant divine ascent,
+To some, O Mother, You grant the supreme divine height,
 
-To others, You cast into descent.
+While others You cast into darkness and plight.
 
 ---
 
