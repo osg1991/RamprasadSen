@@ -2,7 +2,7 @@ These are all the poems attributed to Sri Ramprasad Sen.
 Reference: [Kabya Sangraha] (https://github.com/osg1991/RamprasadSen/blob/main/assets/pdf/KabyaSangraha-RamprasadSen.pdf)
 
 
-For the items marked as [x], the audio, lyrics are available at [REAME] (https://github.com/osg1991/RamprasadSen/blob/main/README.md)
+For the items marked as [x], the audio, lyrics are available at [Ramprasad Sen](https://osg1991.github.io/RamprasadSen/)
 
 
 1.  [x] 01-Aamay-De-Maa-Pagol-Kore.md
