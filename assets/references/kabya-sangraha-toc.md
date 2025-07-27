@@ -97,3 +97,53 @@
 | 94  | তুলসীর গীত ও আরাধনা                     | tulasIr gIta o ArAdhanA              | ৯১             | 91             |
 | 95  | তুলসীর গান লীলাগীত                      | tulasIr gAna lIlAgIta                | ৯২             | 92             |
 | 96  | বিদ্যার দীক্ষিত কোটোলাভ নিখাদ            | vidyAra dIkShita koTolAbha nikhAda    | -              | -              |
+| 97  | খোদে মহাশয়ের বিদায়োৎসব                                    | khode mahAshayer bidAyotsaba                                         | ৯৮             | 120            |
+| 98  | চৌরঙ্গীর বিদায় মন্দির                                       | choura.ngIr bidAya mandira                                           | ৯৯             | 121            |
+| 99  | চৌরঙ্গী নাগরিকতার পিপাসু দেশ                                 | choura.ngI nAgari katar pIpAsu desha                                 | ১০০            | 122            |
+| 100 | শিবশক্তির মন্দ গন্ধে কর্ণ কুজাগর সহ চৌরঙ্গীর অঙ্গসিক্ত        | shivashaktira manda gandhe karNa kujAgara saha choura.ngIra a.ngasikta | ১০১            | 123            |
+| 101 | ঊষারাধার এবং হুমারের                                         | ushArAdhAra ebang humAre                                             | ...            | 126            |
+| 102 | হুগলীর পারান                                                | huglIr pArAna                                                        | ১০৩            | 127            |
+| 103 | চৌরঙ্গীর পটভূমির সজ্জা                                       | choura.ngIr paTabhUmir sajjA                                         | ১০৪            | 128            |
+| 104 | বিদায়ের গন্ধ                                                | bidAyer gandha                                                       | ১০৫            | 129            |
+| 105 | বিদায় উৎসর্গ                                                | bidAya utsarga                                                       | ১০৬            | 130            |
+| 106 | বিদায় সংলাপ                                                 | bidAya sa.nglApa                                                     | ১০৭            | 131            |
+| 107 | বিদায় রথযাত্রা                                              | bidAya rathyAtrA                                                     | ১০৮            | 132            |
+| 108 | বিদায় গদ্যগান                                               | bidAya gadyagAna                                                     | ১০৯            | 133            |
+| 109 | বিদায় প্রীতি                                                | bidAya prIti                                                         | ১১০            | 134            |
+| 110 | বিদায় প্রীতির সংলাপ                                         | bidAya prItira sa.nglApa                                             | ১১১            | 135            |
+| 111 | বিদায় শ্রদ্ধাঞ্জলি                                          | bidAya shraddhAnjali                                                 | ১১২            | 136            |
+| 112 | বিদায় সংলাপ                                                 | bidAya sa.nglApa                                                     | ১১৩            | 137            |
+| 113 | বিদায়ের পুষ্পমাল্য                                           | bidAyer puShpamAlya                                                  | ১১৪            | 138            |
+| 114 | বিদায় গীতিকা                                                | bidAya gItikA                                                        | ১১৫            | 139            |
+| 115 | বিদায় গদ্যপুষ্প                                              | bidAya gadyapuShpa                                                   | ১১৬            | 140            |
+| 116 | বিদায় ফুলসজ্জা                                              | bidAya phulsajja                                                     | ১১৭            | 141            |
+| 117 | বিদায় পুষ্পাঞ্জলি                                           | bidAya puShpAnjali                                                   | ১১৮            | 142            |
+| 118 | বিদায় শোভাযাত্রা                                            | bidAya shobhAyAtrA                                                   | ১১৯            | 143            |
+| 119 | বিদায় সম্মান                                                | bidAya sammana                                                       | ১২০            | 144            |
+| 120 | বিদায় উপহার                                                 | bidAya upahAra                                                       | ১২১            | 145            |
+| 121 | বিদায় আশীর্বাদ                                              | bidAya AshIrbaada                                                    | ১২২            | 146            |
+| 122 | প্রণি                                          | praNi                                          | 152            |
+| 123 | মূদ্রাকে মানবমূলে                              | mUdrAke mAnabamUle                             | 153            |
+| 124 | পরমর্শ                                         | paramarsha                                    | 154            |
+| 125 | মূদ্রার মন্দ গমন                              | mUdrAra manda gamana                          | 155            |
+| 126 | নিষ্কটে বিদায়গাথা                             | nishkaTe bidAygAthA                            | 156            |
+| 127 | বিদায় শুদ্ধ ধামার গীতি                       | bidAya shuddha dhAmAra gIti                   | 157            |
+| 128 | বিদায় মন্দ গমন                               | bidAya manda gamana                           | 158            |
+| 129 | স্নিগ্ধ বিদায় গদ্যগান                         | snigdha bidAya gadyagAna                      | 159            |
+| 130 | পুষ্পমাল্য                                    | puShpamAlya                                   | 160            |
+| 131 | বিদায় সং শোভাযাত্রা                          | bidAya sa.ng shobhAyAtrA                      | 161            |
+| 132 | মূদ্রাকে আনন্দমার্গ উঁধার                      | mUdrAke AnandamArga u.nadhAra                  | 162            |
+| 133 | কালীঘাট পিতাচার্চার প্রভূতপ্রদর্শন             | kAlighATa pitAchArchAra prabhutapradarshana    | 163            |
+| 134 | বিদায়ের পর্বোন্মুখ পূর্বাবি                   | bidAyer parbonmukha pUrvAbi                    | 164            |
+| 135 | নাগরীকের আগমন                                 | nAgArIker Agamana                             | 165            |
+| 136 | বিদায় সঙ্গীতগীতি                             | bidAya sa.ngItagIti                           | 166            |
+| 137 | বিদায় গদ্যোপলাপ                              | bidAya gadyopalApa                            | 167            |
+| 138 | পুষ্পাঞ্জলি                                    | puShpAnjali                                   | 168            |
+| 139 | বিদায়ের প্রীতি অভিবাদন                       | bidAyer prIti abhibAdana                      | 169            |
+| 140 | বিদায় শ্রদ্ধা ও প্রীতি                         | bidAya shraddhA o prIti                       | 170            |
+| 141 | বিদায়ের কীর্তনগান                             | bidAyer kIrtanagAna                           | 171            |
+| 142 | বিদায় শুভেচ্ছাবাণী                            | bidAya shubhechChAbANi                        | 172            |
+| 143 | প্রীতিগান                                      | prItigAna                                     | 173            |
+| 144 | বিদায় শোভাযাত্রা                              | bidAya shobhAyAtrA                            | 174            |
+| 145 | বিদায়ের কীর্তনগান                             | bidAyer kIrtanagAna                           | 175            |
+| 146 | প্রণাম                                         | praNAm                                        | 176            |

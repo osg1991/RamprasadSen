@@ -101,4 +101,54 @@ For the items marked as [x], the audio, lyrics are available at [Ramprasad Sen](
 94. [ ] tulasIr gIta o ArAdhanA  
 95. [ ] tulasIr gAna lIlAgIta  
 96. [ ] vidyAra dIkShita koTolAbha nikhAda
+97. [ ] khode mahAshayer bidAyotsaba  
+98. [ ] chouraṅgIr bidAya mandira  
+99. [ ] chouraṅgI nAgari katar pIpAsu desha  
+100. [ ] shivashaktira manda gandhe karṇa kujAgara saha chouraṅgIra aṅgasikta  
+101. [ ] ūṣārādhāra ebaṅ humāre  
+102. [ ] huglIr pArAna  
+103. [ ] chouraṅgIr paṭabhūmir sajjā  
+104. [ ] bidAyer gandha  
+105. [ ] bidAya utsarga  
+106. [ ] bidAya saṅlāpa  
+107. [ ] bidAya rathyātrā  
+108. [ ] bidAya gadyagāna  
+109. [ ] bidAya prIti  
+110. [ ] bidAya prItira saṅlāpa  
+111. [ ] bidAya shraddhāñjali  
+112. [ ] bidAya saṅlāpa  
+113. [ ] bidAyer puṣpamālya  
+114. [ ] bidAya gItikā  
+115. [ ] bidAya gadyapuṣpa  
+116. [ ] bidAya phulsajjā  
+117. [ ] bidAya puṣpāñjali  
+118. [ ] bidAya shobhāyātrā  
+119. [ ] bidAya sammana  
+120. [ ] bidAya upahāra  
+121. [ ] bidAya āshīrbāda  
+122. [ ] praNi  
+123. [ ] mUdrAke mAnabamUle  
+124. [ ] paramarsha  
+125. [ ] mUdrAra manda gamana  
+126. [ ] nishkaTe bidAygAthA  
+127. [ ] bidAya shuddha dhAmAra gIti  
+128. [ ] bidAya manda gamana  
+129. [ ] snigdha bidAya gadyagAna  
+130. [ ] puShpamAlya  
+131. [ ] bidAya saṅ shobhAyAtrA  
+132. [ ] mUdrAke AnandamArga uṅdhAra  
+133. [ ] kAlighATa pitAchArchAra prabhutapradarshana  
+134. [ ] bidAyer parbonmukha pUrvAbi  
+135. [ ] nAgArIker Agamana  
+136. [ ] bidAya saṅgItagIti  
+137. [ ] bidAya gadyopalApa  
+138. [ ] puShpAnjali  
+139. [ ] bidAyer prIti abhibAdana  
+140. [ ] bidAya shraddhA o prIti  
+141. [ ] bidAyer kIrtanagAna  
+142. [ ] bidAya shubhechChAbANi  
+143. [ ] prItigAna  
+144. [ ] bidAya shobhAyAtrA  
+145. [ ] bidAyer kIrtanagAna  
+146. [ ] praNAm
 
