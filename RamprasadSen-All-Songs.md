@@ -68,3 +68,37 @@ For the items marked as [x], the audio, lyrics are available at [REAME] (https:/
 61. [ ] kabira bAlyakathA
 62. [ ] bibidha prIti kAbyakathA
 63. [ ] bidAYa parbe phulasajjA sohaga
+64. [ ] vidyA kartR^ika kalpataru tIra thaba  
+65. [ ] vidyAra bAgAnalatA  
+66. [ ] shaktira janmatIrtha  
+67. [ ] kabira sUryaprabhAte mananmodana  
+68. [ ] vidyAra utsargAbadhi ramaNera darshana  
+69. [ ] vidyAra kusumera giri  
+70. [ ] vidyAtramba bidAya  
+71. [ ] purANe itihAsa vidyAra bistAra  
+72. [ ] shukadeba parAyaNa bhakti  
+73. [ ] purANagItirAdhyAya aitihAsika  
+74. [ ] adhibidyA vidyAra sutrapAta  
+75. [ ] purANe mAnikIr bidAya  
+76. [ ] vidyAra janmatIrtha mahAtIrtha  
+77. [ ] vidyAra dR^iShTe ga.ngopadesha  
+78. [ ] mAnikIr ga.ngApUjA  
+79. [ ] shaktisAdhana vidyA  
+80. [ ] mAnikIr bidAya AkhyAna  
+81. [ ] shaktipITha mahAtIrtha  
+82. [ ] puNyapITha vidyAra samAdhAna  
+83. [ ] rANI sura vidyA o sa.ngIgANera puNyakIrtana
+84. [ ] vidyAra rUpArAsha shrabaNe  
+85. [ ] tulasIr kolApe dhIrata  
+86. [ ] puNyarAtrira koTotasvarera shabda  
+87. [ ] tulasIr managIta bhaktira gAna  
+88. [ ] tulasIr prIti o guNabANi  
+89. [ ] tulasIr gadya gIta koTolAbhera shabda  
+90. [ ] tulasIr gIta o ArAdhanA nAle  
+91. [ ] tulasIr rAdhAra lIlAgIta  
+92. [ ] tulasIr prIti koTolAbhera bhakti  
+93. [ ] tulasIr gadya gIta koTolAbhera kIrti  
+94. [ ] tulasIr gIta o ArAdhanA  
+95. [ ] tulasIr gAna lIlAgIta  
+96. [ ] vidyAra dIkShita koTolAbha nikhAda
+
