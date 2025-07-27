@@ -1,3 +1,7 @@
+
+All available poems by Sri Ramprasad Sen are available at [RamprasadSen All Songs](https://github.com/osg1991/RamprasadSen/blob/main/RamprasadSen-All-Songs.md)
+
+
 | Song Number | Song Lyrics Link | Lyrics PDF | Mp3 |
 |---------------|-----------|------------|-----|
 | 1  | [Aamay De Maa Pagol Kore](https://github.com/osg1991/RamprasadSen/blob/main/01-Aamay-De-Maa-Pagol-Kore.md) | - | [MP3](https://github.com/osg1991/RamprasadSen/blob/main/assets/mp3/01-AmayDeMaPagolKore-Pannalal-Ramprasad.mp3) |
