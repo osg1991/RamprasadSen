@@ -1,0 +1,9 @@
+# Ignore site build output
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Ignore Ruby dependencies
+vendor/
+.bundle/
