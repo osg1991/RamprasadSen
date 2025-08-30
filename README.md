@@ -2,8 +2,8 @@
 All available poems by Sri Ramprasad Sen are available at [RamprasadSen All Songs](https://github.com/osg1991/RamprasadSen/blob/main/RamprasadSen-All-Songs.md)
 
 
-| Song Number | Song Lyrics Link | Lyrics PDF | Mp3 |
-|---------------|-----------|------------|-----|
+| Song Number | Song Lyrics Link | Lyrics PDF | Mp3 | குறிப்பு |
+|---------------|-----------|------------|-----|-----|
 | 1  | [Aamay De Maa Pagol Kore](https://github.com/osg1991/RamprasadSen/blob/main/01-Aamay-De-Maa-Pagol-Kore.md) | - | [MP3](https://github.com/osg1991/RamprasadSen/blob/main/assets/mp3/01-AmayDeMaPagolKore-Pannalal-Ramprasad.mp3) |
 | 2  | [Amar Maa Tvam hi tara](https://github.com/osg1991/RamprasadSen/blob/main/02-Amar-Maa-Tvam-hi-tara.md) | - | [MP3](https://github.com/osg1991/RamprasadSen/blob/main/assets/mp3/02-Amar%20Maa%20Twang%20Hi%20Tara-Pannalal-Ramprasad.mp3) |
 | 3  | [boshilen mA hemabarNI](https://github.com/osg1991/RamprasadSen/blob/main/03-boshilen-mA-hemabarNI.md) | - | [MP3](https://github.com/osg1991/RamprasadSen/blob/main/assets/mp3/03-BosilenMaHembarani-Pannalal-Ramprasad.mp3) |
@@ -13,7 +13,7 @@ All available poems by Sri Ramprasad Sen are available at [RamprasadSen All Song
 | 7  | [Jogat-janonI tumi go mA tArA](https://github.com/osg1991/RamprasadSen/blob/main/07-Jogat-janonI-tumi-go-mA-tArA.md) | - | [MP3](https://github.com/osg1991/RamprasadSen/blob/main/assets/mp3/07-JagatJananiGoMaaTara-Pannalal-RamprasadSen.mp3) |
 | 8  | [jodi Dākār moto pāritām Dākte](https://github.com/osg1991/RamprasadSen/blob/main/08-jodi-Dākār-moto-pāritām-Dākte.md) | - | [MP3](https://github.com/osg1991/RamprasadSen/blob/main/assets/mp3/08-Jodi-Dakar-Mato-Paritam-Dakte.mp3) |
 | 9  | [mā go bhubana-bhara rūp](https://github.com/osg1991/RamprasadSen/blob/main/09-mā-go-bhubana-bhara-rūp.md) | - | [MP3](https://github.com/osg1991/RamprasadSen/blob/main/assets/mp3/09-Ma-Go-Bhubanbhora-Rup.mp3) |
-| 10 | [mon re kṛṣikāj jāno na](https://github.com/osg1991/RamprasadSen/blob/main/10-mon-re-kṛṣi-kāj-jāno-na.md) | - | [MP3](https://github.com/osg1991/RamprasadSen/blob/main/assets/mp3/10-ManReKṛṣiKājJānaNā-Pannalal-Ramprasad.mp3) |
+| 10 | [mon re kṛṣikāj jāno na](https://github.com/osg1991/RamprasadSen/blob/main/10-mon-re-kṛṣi-kāj-jāno-na.md) | - | [MP3](https://github.com/osg1991/RamprasadSen/blob/main/assets/mp3/10-ManReKṛṣiKājJānaNā-Pannalal-Ramprasad.mp3) | அமுத மொழிகள் - June 4 1883 அன்று பரமஹம்ஸ்ர பாடினார் |
 | 11 | [oder moto bolbo na mā](https://github.com/osg1991/RamprasadSen/blob/main/11-oder-moto-bolbo-na-mā.md) | - | [MP3](https://github.com/osg1991/RamprasadSen/blob/main/assets/mp3/11-Oder-Mato-Bolbo-Na-Ma.mp3) |
 | 12 | [shokoli tomāri icchā](https://github.com/osg1991/RamprasadSen/blob/main/12-shokoli-tomāri-icchā.md) | - | [MP3](https://github.com/osg1991/RamprasadSen/blob/main/assets/mp3/12-Sakali-tomari-ichha.mp3) |
 | 13 | [Chintamoyī Tara Tumi](https://github.com/osg1991/RamprasadSen/blob/main/13-chintamoyī-tara-tumi.md) | - | [MP3](https://github.com/osg1991/RamprasadSen/blob/main/assets/mp3/13-ChintamoyeeTaraTumi-Pannalal-Ramprasad.mp3) |
